@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://makmacedo.github.io/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arcadio-macedo/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makmacedo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://makmacedo.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arcadio-macedo/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/makmacedo)
 
 <h3 style="color: #6366F1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; margin: 30px 0 20px 0;">🚀 Engineering Lead @ <a href="https://www.linkedin.com/company/sphera/" target="_blank" style="color: #6366F1; text-decoration: underline;">Sphera</a></h3>
 
@@ -21,7 +21,7 @@
 
 <div align="center" style="margin: 40px 0;">
   <p style="font-size: 1.1em; line-height: 1.6; max-width: 800px; margin: 0 auto; color: #4A5568;">
-    💡 <strong>Portuguese</strong> 🇵🇹 <strong>husband and father of two</strong>, UK-based Engineering Leader with <strong>7 years</strong> in the British tech scene. <strong>Dog lover</strong> 🐕, <strong>motorcycle rider</strong> 🏍️, <strong>Laravel advocate</strong>, and <strong>tech enthusiast</strong> who specializes in <strong>environmental compliance SaaS</strong>. I work with <strong>Product Life Cycle</strong>, <strong>Circular Economy</strong>, <strong>EPR metrics</strong>, and <strong>ESG implementations</strong> while leading teams to modernize legacy systems and mentoring developers, with a passion for <strong>clean architecture</strong> and building scalable solutions that make a real impact.
+    💡 <strong>Portuguese, husband and father of two</strong>, UK-based Engineering Leader with <strong>7 years</strong> in the British tech scene. <strong>Dog lover</strong> 🐕, <strong>motorcycle rider</strong> 🏍️, <strong>Laravel advocate</strong>, and <strong>tech enthusiast</strong> who specializes in <strong>environmental compliance SaaS</strong>. I work with <strong>Product Life Cycle</strong>, <strong>Circular Economy</strong>, <strong>EPR metrics</strong>, and <strong>ESG implementations</strong> while leading teams to modernize legacy systems and mentoring developers, with a passion for <strong>clean architecture</strong> and building scalable solutions that make a real impact.
   </p>
 </div>
 
