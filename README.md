@@ -123,7 +123,7 @@ Process:
 When I'm not coding, you'll find me:
 - 👨‍👩‍👧 Spending time with my wife and daughter and son
 - 🐕 Taking care of my two black Labradors
-- 🚴‍♂️ Biking around the UK countryside (not as much lately :s)
+- 🏍️ Riding my motorcycle around the UK countryside
 - 🎯 Attending **Laracon** and other tech conferences
 - 🔧 Tinkering with home automation projects
 - 🌐 Building random web tools and experiments
